@@ -1,0 +1,254 @@
+[
+  {
+    "file": "assets/projects/vigil-dashboard.webp",
+    "source": "Uploaded screenshot: dashboard.png",
+    "caption": "VigilAI project dashboard",
+    "size": [
+      637,
+      567
+    ]
+  },
+  {
+    "file": "assets/projects/vigil-explainability.webp",
+    "source": "Uploaded screenshot: xai.png",
+    "caption": "VigilAI explainability: detection, Grad-CAM and LIME",
+    "size": [
+      842,
+      558
+    ]
+  },
+  {
+    "file": "assets/projects/crime-boroughs.webp",
+    "source": "Uploaded screenshot: 1.png",
+    "caption": "London boroughs ranked by total recorded crimes",
+    "size": [
+      893,
+      502
+    ]
+  },
+  {
+    "file": "assets/projects/crime-categories.webp",
+    "source": "Uploaded screenshot: 2.png",
+    "caption": "Major crime categories and volumes",
+    "size": [
+      921,
+      517
+    ]
+  },
+  {
+    "file": "assets/projects/crime-growth.webp",
+    "source": "Uploaded screenshot: 3.png",
+    "caption": "Year-on-year changes in recorded crimes",
+    "size": [
+      838,
+      489
+    ]
+  },
+  {
+    "file": "assets/projects/crime-monthly.webp",
+    "source": "Uploaded screenshot: 4.png",
+    "caption": "Monthly crime volume comparison",
+    "size": [
+      1005,
+      564
+    ]
+  },
+  {
+    "file": "assets/projects/crime-seasonality.webp",
+    "source": "Uploaded screenshot: 5.png",
+    "caption": "Monthly crime seasonality distribution",
+    "size": [
+      754,
+      525
+    ]
+  },
+  {
+    "file": "assets/projects/crime-donut.webp",
+    "source": "Uploaded screenshot: 6.png",
+    "caption": "Category composition shown in a dashboard",
+    "size": [
+      814,
+      520
+    ]
+  },
+  {
+    "file": "assets/projects/iot-simulation.webp",
+    "source": "Uploaded screenshot: Screenshot 2026-05-27 145646.png",
+    "caption": "SmartFridge IoT Wokwi simulation",
+    "size": [
+      1364,
+      525
+    ]
+  },
+  {
+    "file": "assets/projects/iot-circuit.webp",
+    "source": "Uploaded screenshot: Screenshot 2026-05-27 145039.png",
+    "caption": "SmartFridge ESP32 circuit",
+    "size": [
+      1344,
+      663
+    ]
+  },
+  {
+    "file": "assets/projects/journey-home.webp",
+    "source": "Uploaded screenshot: 1(1).png",
+    "caption": "Green Journey Advisor search screen",
+    "size": [
+      1201,
+      622
+    ]
+  },
+  {
+    "file": "assets/projects/journey-results.webp",
+    "source": "Uploaded screenshot: 2(1).png",
+    "caption": "Journey comparison results",
+    "size": [
+      1123,
+      529
+    ]
+  },
+  {
+    "file": "assets/projects/journey-confirm.webp",
+    "source": "Uploaded screenshot: 3(1).png",
+    "caption": "Journey confirmation step",
+    "size": [
+      510,
+      459
+    ]
+  },
+  {
+    "file": "assets/projects/journey-payment.webp",
+    "source": "Uploaded screenshot: 4(1).png",
+    "caption": "Simulated payment flow",
+    "size": [
+      440,
+      595
+    ]
+  },
+  {
+    "file": "assets/projects/journey-bookings.webp",
+    "source": "Uploaded screenshot: 5(1).png",
+    "caption": "Booking overview",
+    "size": [
+      1093,
+      628
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-admin.webp",
+    "source": "Uploaded screenshot: 1(2).png",
+    "caption": "MediTrack admin dashboard",
+    "size": [
+      700,
+      349
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-doctor.webp",
+    "source": "Uploaded screenshot: 2(2).png",
+    "caption": "MediTrack doctor dashboard",
+    "size": [
+      795,
+      368
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-patient.webp",
+    "source": "Uploaded screenshot: 3(2).png",
+    "caption": "MediTrack patient dashboard",
+    "size": [
+      790,
+      357
+    ]
+  },
+  {
+    "file": "assets/projects/vigil-confusion.webp",
+    "source": "Document: 14512926_605_IT_INDIVIDUAL_PROJECT_REPORT .docx; embedded image11.png",
+    "caption": "VigilAI confusion matrix",
+    "size": [
+      1269,
+      952
+    ]
+  },
+  {
+    "file": "assets/projects/vigil-pr.webp",
+    "source": "Document: 14512926_605_IT_INDIVIDUAL_PROJECT_REPORT .docx; embedded image12.png",
+    "caption": "VigilAI precision recall analysis",
+    "size": [
+      1269,
+      846
+    ]
+  },
+  {
+    "file": "assets/projects/vigil-f1.webp",
+    "source": "Document: 14512926_605_IT_INDIVIDUAL_PROJECT_REPORT .docx; embedded image13.png",
+    "caption": "VigilAI F1 confidence curve",
+    "size": [
+      1269,
+      846
+    ]
+  },
+  {
+    "file": "assets/projects/vigil-architecture.webp",
+    "source": "Document: 14512926_605_IT_INDIVIDUAL_PROJECT_REPORT .docx; embedded image7.png",
+    "caption": "VigilAI project process diagram",
+    "size": [
+      713,
+      1235
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-login.webp",
+    "source": "Document: cs2 agoritham.docx; embedded image15.png",
+    "caption": "MediTrack login screen",
+    "size": [
+      398,
+      318
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-role.webp",
+    "source": "Document: cs2 agoritham.docx; embedded image16.png",
+    "caption": "MediTrack role selection",
+    "size": [
+      293,
+      215
+    ]
+  },
+  {
+    "file": "assets/projects/meditrack-workflow.webp",
+    "source": "Document: cs2 agoritham.docx; embedded image23.png",
+    "caption": "MediTrack application activity diagram",
+    "size": [
+      695,
+      510
+    ]
+  },
+  {
+    "file": "assets/projects/mobile-flowchart.webp",
+    "source": "Document: 14512926 PPS CW2.docx; embedded image4.png",
+    "caption": "Mobile-selection decision flowchart",
+    "size": [
+      1060,
+      627
+    ]
+  },
+  {
+    "file": "assets/projects/mobile-menu.webp",
+    "source": "Document: 14512926 PPS CW2.docx; embedded image20.png",
+    "caption": "Mobile selection console menu",
+    "size": [
+      447,
+      239
+    ]
+  },
+  {
+    "file": "assets/projects/mobile-payment.webp",
+    "source": "Document: 14512926 PPS CW2.docx; embedded image29.png",
+    "caption": "Mobile selection installment choice screen",
+    "size": [
+      527,
+      238
+    ]
+  }
+]
